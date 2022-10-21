@@ -1,6 +1,6 @@
 require'colorize'
 puts"|===============================================|".yellow
-puts"       MINI JOGO FEITO EM RUBY POR CLAWS ".yellow
+puts"       MINI JOGO FEITO EM RUBY POR Diniz Dev ".yellow
 puts"|===============================================|".yellow
 #Fim Title Game
 
