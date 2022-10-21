@@ -1,27 +1,27 @@
-# Jogo acerte o nÚmero RUBY 
-## Jogo feito em ruby para Terminal, e fins didáticos
+# Game hit the number RUBY
+> Game made in ruby ​​for Terminal, and educational purposes
 
-## Rode localmente
+## Running locally
 
-1. Clone este repo:
+1. Clone this repo:
 
 ```sh
 $ git clone https://github.com/dinizdev/MiniGameRuby.git
 ```
 
-2. Então abra a pasta do projeto:
+2. Then go to the project's folder:
 
 ```sh
 cd MiniGameRuby
 ```
 
-3. Rode esse comando para instalar as dependências:
+3. Install all dependencies:
 
 ```sh
 gem install
 ```
 
-4. Rode localmente:
+4. Run locally:
 
 ```sh
 ruby Jogo.rb
